@@ -49,7 +49,7 @@ local command = {
       "help - " .. command.help.desc,
       "reboot - " .. command.reboot.desc,
       "shutdown - " .. command.shutdown.desc,
-      "exit - " .. command.exit.desc,
+      "exit - " .. command.exit.desc
     }
   }
 }
